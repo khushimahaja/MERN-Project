@@ -1,4 +1,4 @@
-# Full-Stack-E-Commerce-MERN-APP
+# Online Fashion and Lifestyle Store(E Commerce)
 Full Stack E-Commerce MERN APP
 
 ![Alt text](Full%20Stack%20E-Commerce%20MERN%20App.png?raw=true "Title")
