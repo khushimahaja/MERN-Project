@@ -1,2 +1,2 @@
-# PTitle: Online Fashion and Lifestyle Store (E Commerce)
+# Online Fashion and Lifestyle Store (E Commerce)
 
